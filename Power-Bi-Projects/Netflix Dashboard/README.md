@@ -1,4 +1,4 @@
-# Netflix Content Intelligence Dashboard | Power BI
+# Netflix Content Intelligence Dashboard | Power BI 
 
 An interactive, five-page Power BI dashboard for analyzing Netflix's content catalog, including content types, genres, ratings, geographic distribution, catalog growth, and individual titles.
 
