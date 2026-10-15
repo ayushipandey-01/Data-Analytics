@@ -1,4 +1,3 @@
-# Data-Analytics
 # 📊 Data Analytics Portfolio
 
 ### Turning data into clear, practical insights
