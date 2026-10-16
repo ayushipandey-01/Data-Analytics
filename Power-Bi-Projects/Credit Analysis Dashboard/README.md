@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The **Credit Analysis Dashboard** is an interactive Power BI project focused on analyzing customer credit profiles, credit risk categories, and loan approval and rejection patterns.
+The **Credit Analysis Dashboard** is an interactive Power BI project focused on analyzing customer credit profiles, credit risk categories, and loan approval and rejection patterns. 
 
 The dashboard is organized into three pages, providing an overview of the credit portfolio, customer credit risk, and loan approval and rejection rates through KPI cards, charts, a map, and interactive slicers.
 
