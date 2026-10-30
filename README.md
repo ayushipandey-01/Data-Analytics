@@ -49,5 +49,5 @@ Projects are organized into folders. Depending on the project, each folder may i
 Data-Analytics/
 ├── README.md
 ├── Netflix-Content-Intelligence/
-├── Customer-Churn-Dashboard/
-└── Election-Dashboard/
+├── Credit Analysis Dashboard/
+└── 
